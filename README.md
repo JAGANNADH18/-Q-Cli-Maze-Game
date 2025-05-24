@@ -65,12 +65,6 @@ python3 maze_game.py
 
 Read more about the development process and game design:
 
-- [Dev.to Blog Post](https://dev.to/aws-builders/using-amazon-q-cli-pygame-to-build-a-3-level-maze-game-with-hearts-hazards-5an9)
-- [Hashnode Article](https://technodiaryvishnu.hashnode.dev/using-amazon-q-cli-and-pygame-to-build-a-3-level-maze-game-with-hearts-and-hazards)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
