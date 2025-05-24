@@ -1,1 +1,1 @@
-# -Q-Cli-Maze-Game
+# Q-Cli-Maze-Game
