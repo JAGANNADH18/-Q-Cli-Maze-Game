@@ -28,10 +28,6 @@ A simple 2D maze runner game built with PyGame where players navigate through in
    - +10 points for each token collected
    - +10 points for completing a level
 
-## Game Video (Find out what will there in level-3)
-
-[Game Video](https://www.youtube.com/watch?v=cfSYiKgdmf0)
-
 ## Requirements
 
 - Python 3.x
