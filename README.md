@@ -56,7 +56,7 @@ python3 maze_game.py
 ## Blog Posts
 
 Read more about the development process and game design:
-
+https://purijagannadhblog.blogspot.com/2025/05/using-amazon-q-cli-pygame-to-build-3.html
 
 ## Acknowledgments
 
